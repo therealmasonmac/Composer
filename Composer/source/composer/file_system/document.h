@@ -2,8 +2,6 @@
 
 #include <string>
 
-#include "kernel/memory_buffer.h"
-
 namespace cmp
 {
 	class Document;
