@@ -1,5 +1,9 @@
 #pragma once
-class editor
-{
-};
 
+namespace cmp
+{
+	class Editor
+	{
+
+	};
+}
